@@ -1,4 +1,4 @@
-# gitTest
+Steps:
 1. Open command screen
 2. cd c:\projects\gitTest
 3. node server
