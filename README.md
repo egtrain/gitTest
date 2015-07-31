@@ -2,7 +2,7 @@ Steps:
 
 1. Open command screen
 
-2. cd c:\projects\gitTest
+2. Go to folder where project is installed
 
 3. node server
 
